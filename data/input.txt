@@ -1,11 +1,11 @@
 1,Ahmed,100
-2,Sara,200
-3,Omar,150
-4,Mona,300
-5,Ali,250
+2,Sara,-10
+3,Omar,-50
+4,Mona,-25
+5,Ali,-20
 6,Youssef,180
 7,Nour,220
-8,Mostafa,90
+8,Mostafa,-30
 9,Salma,350
 10,Hassan,120
 11,Menna,275

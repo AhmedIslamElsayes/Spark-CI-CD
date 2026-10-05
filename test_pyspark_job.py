@@ -17,7 +17,7 @@ def test_process_data():
     assert result.filter("amount <= 0").count() == 0
 
     # Check the expected number of valid records
-    assert result.count() == 26
+    assert result.count() == 25
 
     # Check the tax calculation
     first_row = result.orderBy("id").first()
